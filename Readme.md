@@ -8,7 +8,7 @@
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to Tyrrz to support!</a></b></td>
     </tr>
 </table>
 
@@ -17,8 +17,7 @@
 </p>
 
 **YoutubeDownloader** is an application that lets you download videos from YouTube.
-You can copy-paste URL of any video, playlist or channel and download it directly to a format of your choice.
-It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.
+You can copy-paste URL playlist and download it directly to a format of your choice.
 
 > **Note**:
 > This application uses [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) under the hood to interact with YouTube.
